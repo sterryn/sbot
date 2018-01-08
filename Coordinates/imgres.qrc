@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/session-properties.png</file>
+        <file>icons/Update-icon.png</file>
+        <file>icons/Apps-Dialog-Shutdown-icon.png</file>
+        <file>icons/database.png</file>
+        <file>icons/images.duckduckgo.com.png</file>
+        <file>icons/qtconfig_qt4_qt_22393.png</file>
+    </qresource>
+</RCC>
